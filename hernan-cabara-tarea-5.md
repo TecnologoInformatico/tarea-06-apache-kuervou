@@ -48,6 +48,7 @@ repositorio: `https://github.com/TecnologoInformatico/AdmInf-web.git`
 10. Verifique que el servidor funcione correctamente.
 
   ![10](10.PNG "anda")
+  ![10](10b.PNG "anda")
 
 11. Ingrese la IP del servidor y el servername a continuación:
 
